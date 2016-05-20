@@ -2,12 +2,14 @@
 {
 	margin: 0 30px;
 	background: #fff;
+	
 }
 
 #header
 {
-	background: #ccc;
+	background: #6495ED;
 	padding: 20px;
+	text-align: center;
 }
 
 #header h1 { margin: 0; }
@@ -58,13 +60,15 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	
 }
 
 #edito h2
 {
-	color: #000;
+	color: #6495ED;
 	font-size: 160%;
 	margin: 0 0 .5em;
+	text-align: center;
 }
 
 #news
@@ -83,7 +87,15 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	
 }
+#news h2
+{
+	color: #6495ED;
+	font-size: 160%;
+	margin: 0 0 .5em;
+	text-align: center;
+	}
 
 #footer
 {
